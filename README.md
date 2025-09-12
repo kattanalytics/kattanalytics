@@ -20,10 +20,11 @@ Welcome to my data portfolio! I’m building skills as a **Data Support Analyst*
 ---
 
 ## 🛠 Skills & Tools  
-- **SQL**: MySQL, joins, subqueries, CTEs, window functions  
-- **Visualization**: Power BI (dashboards, KPIs, DAX)  
-- **Cloud**: Snowflake, Azure (in progress)  
-- **Data Practices**: Cleaning, transformation, business reporting  
+
+- ![SQL](https://img.shields.io/badge/SQL-MySQL-blue?logo=mysql&logoColor=white)   
+- ![Power BI](https://img.shields.io/badge/Power_BI-Data_Visualization-yellow?logo=powerbi&logoColor=black)   
+- ![Snowflake](https://img.shields.io/badge/Cloud-Snowflake-blue?logo=snowflake&logoColor=white)   
+- ![Azure](https://img.shields.io/badge/Cloud-Azure-0089D6?logo=microsoft-azure&logoColor=white)
 
 ---
 
