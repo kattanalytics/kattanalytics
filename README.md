@@ -10,8 +10,9 @@ Welcome to my data portfolio! I’m building skills as a **Data Support Analyst*
 - 📂 [SQL Portfolio](https://github.com/kattanalytics/MySQL)  
   Hands-on SQL projects using datasets like Superstore Sales, Employees, and World.  
 
-- 📊 [Power BI Dashboards (Coming Soon)](https://github.com/kattanalytics/powerbi)  
-  Interactive reports connected to SQL queries. Designed to highlight trends, KPIs, and actionable insights for business users.  
+- 📊 [Power BI Dashboard](https://github.com/kattanalytics/powerbi)  
+  This Power BI dashboard visualizes sales performance using the Superstore dataset.
+  While the dashboard itself is built directly on the dataset, the SQL queries in this project demonstrate how similar analysis could be performed at the query level.
 
 - ☁️ [Cloud Data (In Progress)](https://github.com/kattanalytics/cloud-data)  
   Exploring Snowflake and Azure data workflows to support modern analytics and data engineering.  
