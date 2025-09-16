@@ -14,8 +14,8 @@ Welcome to my data portfolio! I’m building skills as a **Data Support Analyst*
   This Power BI dashboard visualizes sales performance using the Superstore dataset.
   While the dashboard itself is built directly on the dataset, the SQL queries in this project demonstrate how similar analysis could be performed at the query level.
 
-- ☁️ [Cloud Data (In Progress)](https://github.com/kattanalytics/cloud-data)  
-  Exploring Snowflake and Azure data workflows to support modern analytics and data engineering.  
+- ☁️ [Snowflake Portfolio](SQL-Portfolio/snowflake)  
+  Queries and results demonstrating SQL analysis in Snowflake, including sales trends, top products, and regional performance. Highlights skills in cloud data warehousing.
 
 
 ---
