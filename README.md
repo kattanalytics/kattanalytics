@@ -15,8 +15,8 @@ Welcome to my data portfolio! I’m building skills as a **Data Support Analyst*
   While the dashboard itself is built directly on the dataset, the SQL queries in this project demonstrate how similar analysis could be performed at the query level.
 
 - ☁️ [Snowflake Portfolio](https://github.com/kattanalytics/SQL---Portfolio/tree/main/snowflake)  
-  Queries and results demonstrating SQL analysis in Snowflake, including sales trends, top products, and regional performance. Highlights skills in cloud data warehousing,
-staging with Azure Blob Storage, and performance monitoring.
+  Queries and results demonstrating SQL analysis in Snowflake, including sales trends, top products, and regional performance.
+  Highlights skills in cloud data warehousing, staging with Azure Blob Storage, and performance monitoring.
 
 ## 🛠 Skills & Tools  
 
