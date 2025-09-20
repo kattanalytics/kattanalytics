@@ -1,6 +1,16 @@
-# 👋 Hi, I’m Kathryn Starkey  
+# Hi, I’m Kathryn Starkey  
 
-Welcome to my data portfolio! I’m building skills as a **Data Support Analyst**, with projects that highlight SQL, Power BI, and cloud data platforms (Snowflake and Azure). My goal is to transform raw data into clear, actionable insights that support real business decision-making.  
+I am a Data Professional with experience spanning both data engineering and data analytics. My work focuses on designing and supporting end-to-end data solutions — from building and troubleshooting data pipelines in Azure and Snowflake, to transforming raw data into actionable insights through SQL analysis and Power BI dashboards.
+
+By blending engineering skills with analytical expertise, I ensure data is not only reliable and well-structured, but also meaningful for decision-making. My projects showcase hands-on experience in:
+
+Data engineering: cloud storage integration, pipeline automation, and schema management.
+
+Data analytics: SQL-based insights, business reporting, and Power BI dashboards.
+
+Data support: diagnosing errors, validating data quality, and ensuring solutions run smoothly in production-like settings.
+
+My goal is to continue developing as a Data Support Analyst while bridging the gap between engineering and analytics to deliver solutions that drive real business impact.  
 
 ---
 
