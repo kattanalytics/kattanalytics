@@ -40,7 +40,7 @@ My goal is to continue developing as a Data Support Analyst while bridging the g
 *Loading, querying, and optimizing datasets for scalable analytics.*
 
 ![Azure Badge](https://img.shields.io/badge/Azure-Data%20Services-lightblue)  
-*ntegrating Azure Blob Storage with Snowflake for data pipelines*
+*Integrating Azure Blob Storage with Snowflake for data pipelines*
 
 
 ---
