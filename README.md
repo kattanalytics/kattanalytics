@@ -1,25 +1,26 @@
 # Hi, I'm Kathryn Starkey 
+Data Analyst | Developing Data Engineer
 
-Junior Data Engineer — focused on SQL, reporting automation, and scalable data workflows.  
-I turn raw data into insights that support business decisions.
+I work at the intersection of analytics and engineering — designing SQL-driven data workflows, building Power BI dashboards, and supporting cloud-based data processes.
 
+I focus on data accuracy, automation, and visualization — turning complex datasets into clear, actionable insights that support business and technical teams alike.
 ---
 
 ### 🔧 Technical Skills
-- SQL (MySQL, Snowflake)
-- Power BI & DAX
-- Data Modeling & ETL Foundations
-- Azure Data Factory (in progress)
+- SQL (MySQL, Snowflake) -- advanced querying, transformations, CTEs, window functions
+- Power BI -- data modeling, DAX, KPIs, and report automation
+- Data Modeling & ETL Foundations -- schema design, joins, and validation
+- Azure Data Factory -- pipeline orchestration and monitoring
 
 ---
 
-### 📌 Highlighted Projects
+### 📂 Featured Portfolio Projects
 - **Superstore Sales Analysis**  
-  SQL + Power BI dashboard for retail performance insights  
+  SQL + Power BI project exploring sales trends, profitability, and customer behavior  
   👉 github.com/kattanalytics-data-portfolio/Superstore_Analysis
 
 - **Cloud Warehouse Projects**  
-  Snowflake staging and Azure pipeline practice  
+  Hands-on integration of Snowflake staging, SQL transformations, and Azure pipelines  
   👉 github.com/kattanalytics-data-portfolio/Cloud_Warehouse_Projects
 
 ---
