@@ -2,8 +2,8 @@
 Data Analyst | Developing Data Engineer
 
 I work at the intersection of analytics and engineering — designing SQL-driven data workflows, building Power BI dashboards, and supporting cloud-based data processes.
-
 I focus on data accuracy, automation, and visualization — turning complex datasets into clear, actionable insights that support business and technical teams alike.
+
 ---
 
 ### 🔧 Technical Skills
